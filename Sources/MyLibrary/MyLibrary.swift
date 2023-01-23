@@ -4,4 +4,4 @@ public struct MyLibrary {
     public init() {
     }
 }
-// 1.1.0-rc.1
+// 1.2.0-rc.1
